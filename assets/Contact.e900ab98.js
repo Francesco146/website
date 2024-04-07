@@ -1,0 +1,1 @@
+import{_ as t}from"./LegalLayout.vue_vue_type_script_setup_true_lang.b2bbacff.js";import{d as o,N as e,w as a,o as s,f as c}from"./index.452bde25.js";import"./mdi.be1be72f.js";const n=c("h1",{class:"text-h6"},"Contact: support@localsend.org",-1),i=o({__name:"Contact",setup(r){return(_,p)=>(s(),e(t,null,{default:a(()=>[n]),_:1}))}});export{i as default};
